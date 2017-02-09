@@ -10,6 +10,6 @@ using namespace std;
 int main()
 {
 	cout << "Hola Edu" << endl;
-	cout << "Hola Salva" << endl;
+	cout << "Hola Salv" << endl;
 }
 
