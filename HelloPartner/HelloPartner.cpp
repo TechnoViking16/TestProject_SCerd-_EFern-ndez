@@ -9,6 +9,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hola Edu";
+	cout << "Hola Edu" << endl;
+	cout << "Hola Salva" << endl;
 }
 
